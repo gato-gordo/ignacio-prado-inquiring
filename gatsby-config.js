@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Inquiring After Mindfulness`,
+    author: `Ignacio Prado`,
+    description: `Critically, Poetically, Politically`,
+    siteUrl: `http://ignacioprado.com/inquiring`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `IgnacioPradoInq`,
     },
   },
   plugins: [
