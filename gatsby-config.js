@@ -3,9 +3,9 @@ module.exports = {
     title: `Inquiring After Mindfulness`,
     author: `Ignacio Prado`,
     description: `Critically, Poetically, Politically`,
-    siteUrl: `http://ignacioprado.com/inquiring`,
+    siteUrl: `https://inquiring.ignacioprado.com/`,
     social: {
-      twitter: `IgnacioPradoInq`,
+      twitter: `InquiringAfter`,
     },
   },
   plugins: [
